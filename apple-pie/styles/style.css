@@ -1,0 +1,45 @@
+#container {
+    clear: both;
+width: auto;
+height: -100px;
+margin-top: -70px;
+margin-left: -70px;
+margin-right: -70px;
+position: relative;
+
+}
+.legenda {
+    position: absolute;
+	width: 600px;
+	height: 1230px;
+	top: 116px;
+	right: 200px;
+	font-size:36px;
+    color: gainsboro;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    margin: 0;
+    margin: 40px 70px; 
+}
+    
+    
+ .centralizar   {
+    padding: 0px 300px;
+    text-align: auto;
+    ;
+}
+.apple-pie{
+width: 100%;
+}
+
+li >ul {
+    text-decoration:none;
+    
+}
+
